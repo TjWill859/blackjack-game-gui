@@ -50,7 +50,7 @@ blackjack-game-gui/
 
 ## Gameplay
 
-[![Gameplay](PNG-cards/screenshot1.png)]([https://youtu.be/your_video_id](https://youtu.be/RznYsHAczsQ))
+[![YouTube link to gameplay]]([https://youtu.be/your_video_id](https://youtu.be/RznYsHAczsQ))
 
 ## Skills Demonstrated
 
