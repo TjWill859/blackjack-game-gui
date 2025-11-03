@@ -48,10 +48,9 @@ blackjack-game-gui/
 └─ README.md           # Project documentation
 ```
 
-## Screenshots
+## Gameplay
 
-![Game Intro](PNG-cards/game.png)
-![Gameplay](PNG-cards/screenshot1.png)  # Add your own screenshot of gameplay
+[![Gameplay](PNG-cards/screenshot1.png)]([https://youtu.be/your_video_id](https://youtu.be/RznYsHAczsQ))
 
 ## Skills Demonstrated
 
