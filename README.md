@@ -38,16 +38,6 @@ This project demonstrates object-oriented programming, GUI design, and basic gam
    python game_gui.py
    ```
 
-## File Structure
-
-```
-blackjack-game-gui/
-├─ game_gui.py          # Main GUI and game logic integration
-├─ game_logic.py       # Core Blackjack logic (Deck, Hand, Chips, etc.)
-├─ PNG-cards/          # Folder containing card images and back card
-└─ README.md           # Project documentation
-```
-
 ## Gameplay
 
 [![YouTube link to gameplay](gameplay.jpg)](https://youtu.be/RznYsHAczsQ)
